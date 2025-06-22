@@ -72,7 +72,7 @@ vineflower-wrapper MyClass.class
 
 **Decompile a JAR file to a specific directory:**
 ```bash
-vineflower-wrapper my-application.jar -o decompiled-source
+vineflower-wrapper -o decompiled-source my-application.jar
 ```
 
 ## How It Works
