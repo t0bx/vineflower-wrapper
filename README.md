@@ -24,7 +24,7 @@ This tool provides a convenient wrapper around the [Vineflower](https://github.c
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/t0bx/vineflower-wrapper
 cd vineflower-wrapper
 ```
 
